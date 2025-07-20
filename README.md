@@ -1,22 +1,18 @@
-A collection of beginner-friendly PHP programs that demonstrate foundational programming concepts.
-# php-basics
-Basic PHP programs demonstrating control flow, functions, and input/output.
-#php, beginner, basic-programs, programming, learning, open-source
-
 # PHP Basics
 
-This repository contains basic PHP scripts that demonstrate common programming logic and syntax.
+A collection of beginner-friendly PHP programs that demonstrate foundational programming concepts.
 
 ## Files Included
 
-- `evenOdd.php`: Checks if a number is even or odd.
-- `factorial.php`: Calculates the factorial of a number.
-- `formHandler.php`: Handles HTML form input using POST method.
-- `primeCheck.php`: Determines if a number is a prime.
+- `evenOdd.php` - Checks whether a number is even or odd.
+- `factorial.php` - Computes the factorial of a number using loops.
+- `formHandler.php` - Handles HTML form input with basic sanitization.
+- `primeCheck.php` - Checks if a number is prime.
 
 ## How to Run
 
-1. Make sure you have PHP installed.
-2. Run using the command:
+1. Make sure PHP is installed (`php -v` to check).
+2. Open terminal in the directory.
+3. Run:
 ```bash
-php filename.php
+php evenOdd.php
